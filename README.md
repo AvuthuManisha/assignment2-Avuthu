@@ -13,23 +13,15 @@ The Sphinx of Hatshepsut...
 # DIRECTIONS FOR TRAVELLING TO MUSEUM
 LaGuardia Airport is the nearest airport to the museum.
 
-From the LaGuardia airport continue to head northwest toward Taxi Access Rd.
-
-And then keep left, follow signs for Grand Central Pkwy W/Manhattan.
-
-Next continue on Grand Central Pkwy. 
-
-Take I-278 E to FDR Dr in Manhattan. 
-
-Take exit 14 from FDR Dr.
-
-And then follow E 96th St to Merge onto FDR Dr. 
-
-And then Turn right onto E 96th St5th.
-
-Afterwards Turn left onto 5th Ave/Museum Mile.
-
-Then You will see the destination on the Left.
+1. From the LaGuardia airport continue to head northwest toward Taxi Access Rd.
+2.  And then keep left, follow signs for Grand Central Pkwy W/Manhattan.
+3. Next continue on Grand Central Pkwy. 
+4. Take I-278 E to FDR Dr in Manhattan. 
+5. Take exit 14 from FDR Dr.
+6. And then follow E 96th St to Merge onto FDR Dr. 
+7. And then Turn right onto E 96th St5th.
+7. Afterwards Turn left onto 5th Ave/Museum Mile.
+8. Then You will see the destination on the Left.
 
 ### List of other locations around the museum that I would recommend for others:
 * Brooklyn Bridge.
@@ -38,6 +30,8 @@ Then You will see the destination on the Left.
 * Statue of Liberty.
 * Manhattan Skyline.
 * The National 9/11 Memorial & Museum.
+
+
 
 
 
