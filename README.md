@@ -31,7 +31,7 @@ Afterwards Turn left onto 5th Ave/Museum Mile.
 
 Then You will see the destination on the Left.
 
-List of other locations around the museum that I would recommend for others:
+### List of other locations around the museum that I would recommend for others:
 * Brooklyn Bridge.
 * Empire State Building.
 * Top of the Rock.
