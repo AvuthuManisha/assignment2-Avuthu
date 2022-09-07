@@ -27,10 +27,10 @@ LaGuardia Airport is the nearest airport to the museum.
 [Link to the file AboutMe.md](AboutMe.md)
 
 ***
-# Cities to be visited
+# Tables
+# Cities to be Visited
 
 Here are the four cities that I would recommend someone to visit are mentioned in the below table. First is the Chicago next would be New York and then Washington Dc and the fourth one would be Los Angeles. The Places that everyone must visit from the recommended cities are present in the table with the timings.
-
 
 
 |   Name of the City   |  Places to Visit    |   Timings               |
@@ -39,4 +39,16 @@ Here are the four cities that I would recommend someone to visit are mentioned i
 |   New York           |  Times Square       |    24 Hours Open        |
 |   Washington Dc      |  Lincoln Memorial   |    24 Hours Open        |
 |   Los Angeles        |  Disneyland Park    |   8:00 AM – 11:00 PM    |
+
+***
+# Pithy Quotes
+
+> Happy girls are the prettiest. - *Audrey Hepburn*
+>
+> The best revenge is massive success. - *Frank Sinatra*
+
+
+
+
+
 
