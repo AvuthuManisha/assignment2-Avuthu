@@ -47,6 +47,27 @@ Here are the four cities that I would recommend someone to visit are mentioned i
 >
 > The best revenge is massive success. - *Frank Sinatra*
 
+***
+# Code Fencing
+
+https://stackoverflow.com/questions/822452/strip-html-from-text-javascript
+
+```
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+
+```
+
+
+https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/
+
 
 
 
